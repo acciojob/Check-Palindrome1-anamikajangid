@@ -9,6 +9,7 @@ function palindrome(str){
 	}
 	start++;
 	end--;
+	return true;
 }
-return true;
+
 module.exports = palindrome
